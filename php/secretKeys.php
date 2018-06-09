@@ -1,0 +1,5 @@
+<?php
+$keyId = 'YOUR-ACCESS-KEY-GOES-HERE';
+$secretKey = 'YOUR-SECRET-KEY-GOES-HERE';
+$associateId = 'YOUR-ASSOCIATES-TAG-GOES-HERE';
+?>
